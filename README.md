@@ -1,6 +1,6 @@
 # Jest
 
-**TODO: Add description**
+A simple library for encoding and decoding jokes.
 
 ## Installation
 
